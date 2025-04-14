@@ -93,4 +93,4 @@ License
 By contributing, you agree that your contributions will be licensed under the MIT License.
 
 Contact
-For any questions or suggestions, please open an issue or contact webman.
+For any questions or suggestions, please open an issue or contact jeanCodeUnMax.
